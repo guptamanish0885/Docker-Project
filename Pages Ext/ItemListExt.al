@@ -1,3 +1,6 @@
+/// <summary>
+/// PageExtension ItemListExt (ID 50002) extends Record Item List.
+/// </summary>
 pageextension 50002 ItemListExt extends "Item List"
 {
 
