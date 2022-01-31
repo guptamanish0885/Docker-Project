@@ -33,10 +33,6 @@ pageextension 50001 CustomerListExt extends "Customer List"
                     // Mail1.CreateMessage('guptamansih0885@gmail.com', '', '', 'Mail From BC', Body, false, false);
                     Mail.Create(Receipients, 'Mail from BC', Body, true, Receipients, Receipients);
                     Mail1.Send(Mail);
-                    //   Message('%1', 10);
-                    // SMTP.CreateMessage('manish', 'guptamansih0885@gmail.com', Receipients, 'Mail From BC', Body, true);
-                    // SMTP.Send();
-                    //  Mail1.CreateMessage();
                 end;
             }
         }
