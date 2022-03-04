@@ -9,7 +9,7 @@
             "server": "http://bc19in/BC/",
             "serverInstance": "BC",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 50000,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
